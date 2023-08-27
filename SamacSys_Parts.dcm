@@ -1,0 +1,117 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP BPF-E16+
+D Signal Conditioning Lumped LC Band Pass Filter, 2 - 30 MHz, 50 ohms
+K
+F https://www.minicircuits.com/pdfs/BPF-E16+.pdf
+$ENDCMP
+#
+$CMP T1-1T-KK81+
+D Signal Conditioning 1:1 Core & Wire Transformer, 0.08 - 200 MHz, 50ohm
+K
+F https://www.mouser.co.uk/datasheet/2/1030/T1_1T_KK81-2956297.pdf
+$ENDCMP
+#
+$CMP BPF-C550+
+D Surface Mount Bandpass Filter 50 100 to 1000 MHz
+K
+F https://www.minicircuits.com/pdfs/BPF-C550+.pdf
+$ENDCMP
+#
+$CMP BFTC-415+
+D Ceramic Bandpass Filter 50 330 to 500 MHz
+K
+F https://www.minicircuits.com/pdfs/BFTC-415+.pdf
+$ENDCMP
+#
+$CMP BPF-A410+
+D Signal Conditioning BANDPASS FLTR / SURF MT / RoHS
+K
+F https://www.minicircuits.com/pdfs/BPF-A410+.pdf
+$ENDCMP
+#
+$CMP RBP-400+
+D Signal Conditioning BANDPASS FLTR / SURF MT / RoHS
+K
+F https://www.minicircuits.com/WebStore/dashboardPdf?model=RBP-400%2B
+$ENDCMP
+#
+$CMP BPF-A950+
+D Bandpass Filter
+K
+F https://www.minicircuits.com/pdfs/BPF-A950+.pdf
+$ENDCMP
+#
+$CMP BPF-C450+
+D BPF-C450+
+K
+F https://www.mouser.in/datasheet/2/1030/BPF-C450_2b-1700201.pdf
+$ENDCMP
+#
+$CMP BPF-C670+
+D Signal Conditioning BANDPASS FLTR / SURF MT / RoHS
+K
+F https://www.minicircuits.com/pdfs/BPF-C670+.pdf
+$ENDCMP
+#
+$CMP BPF-A1140+
+D Signal Conditioning BANDPASS FLTR / SURF MT / RoHS
+K
+F https://www.minicircuits.com/WebStore/dashboardPdf?model=BPF-A1140%2B
+$ENDCMP
+#
+$CMP BFCG-162W+
+D LTCC Band Pass Filter, 950 - 2200 MHz, 50
+K
+F https://www.minicircuits.com/WebStore/dashboard.html?model=BFCG-162W%2B
+$ENDCMP
+#
+$CMP XBF-282+
+D Signal Conditioning REFLECTIONLESS BANDPASS FILTER
+K
+F https://www.minicircuits.com/pdfs/XBF-282+.pdf
+$ENDCMP
+#
+$CMP BFCN-2491+
+D Signal Conditioning LTCC Band Pass Filter, 1950 - 3190 MHz, 50?
+K
+F https://www.minicircuits.com/pdfs/BFCN-2491+.pdf
+$ENDCMP
+#
+$CMP ADE-2ASK+
+D Level 7, SMT Double Balanced Mixer, RF/LO Freq 1 - 1000 MHz
+K
+F https://www.minicircuits.com/pdfs/ADE-2ASK+.pdf
+$ENDCMP
+#
+$CMP ADT1-6T+
+D Audio Transformers / Signal Transformers RF XFMR / SURF MOUNT / RoHS
+K
+F https://www.minicircuits.com/WebStore/dashboard.html?model=ADT1-6T%2B
+$ENDCMP
+#
+$CMP PCB.SMAFRA.HT
+D RF Connectors / Coaxial Connectors SMA RA PCB Mount, Jack, Gold, 50 , Through Hole Pin
+K
+F 
+$ENDCMP
+#
+$CMP CONSMA001-SMD-G-T
+D LINX - TE CONNECTIVITY - CONSMA001-SMD-G-T - RF / Coaxial Connector, SMA Coaxial, Straight Jack, Surface Mount Vertical, 50 ohm
+K
+F https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7FC-CONSMA001-SMD%7FG%7Fpdf%7FEnglish%7FENG_CD_C-CONSMA001-SMD_G.pdf%7FCONSMA001-SMD-G-T
+$ENDCMP
+#
+$CMP BFCV-2895+
+D LTCC Bandpass Fiilter  50 2220 to 3570 MHz
+K
+F https://www.minicircuits.com/WebStore/dashboardPdf?model=BFCV-2895%2B
+$ENDCMP
+#
+#End Doc Library
